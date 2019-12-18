@@ -1,0 +1,26 @@
+Name - salman Shooshtarian 
+
+Dear statistics savvy people please read the instruction below.
+
+Data Files
+1. Original 500 sample file: original data
+2. Old 500 Representation file: Difference between data points of original data
+
+Requirement
+- I am expecting to python implementations using sk-learn library.
+- pXC50 is the dependent variable in file 1 and file 2
+- You can remove (molecule_id) it is useless.
+
+1. Use Random Forest Regression to predict pXC50 in original file 1 and the other file
+2 : use 10-Fold cross-validation for training and testing (used fixed indexes. )
+
+I want to do regression on this data to predict pXC50 value using Python (sklearn) library 
+10 fold cross validation should be used (fix the indexes) I need to know the indexes of the training and testing tests
+
+
+
+
+
+
+
+
